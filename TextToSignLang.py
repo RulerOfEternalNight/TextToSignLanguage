@@ -110,14 +110,3 @@ if __name__ == '__main__':
     print("\n\nEND---------------------------------END\n")
 
     print("Time taken: ", et - st, "seconds\n\n\n")
-
-
-'''
-
-Time Complexity:
-
-    Average: O(log n)
-    Worst: O(n)
-    Best: O(1)
-
-'''
